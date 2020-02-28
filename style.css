@@ -59,7 +59,7 @@ box1 - HUDDLE
   position: relative;
   background-color: #f9f9f9;
   border-radius: 15px;
-  box-shadow: 0px 4px 6px 4px ##CCCCCC;
+  box-shadow: 0px 4px 6px 4px gray;
   padding:40px;
   border-style: ridge;
   border-color: #CCCCCC;
@@ -72,7 +72,7 @@ box1 - HUDDLE
   width: 85%;
   height: 30%;
   margin-top: 10%;
-  margin: auto;
+  margin-left: 7.5%;
   display: inline-block;
 Position: relative;
  text-decoration: none;
