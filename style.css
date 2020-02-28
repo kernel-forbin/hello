@@ -44,11 +44,11 @@ TOP SECTION
   color:#f9f9f9;
 }
 .imdan{
-  margin-left: 3%;
+  margin-left: 6%;
   margin-top: 12%;
 }
 .welcome{
-  margin-left: 7%;
+  margin-left: 10%;
 }
 
 /*********************************
@@ -69,7 +69,7 @@ box1 - HUDDLE
 }
 
 .hud{
-  width: 90%;
+  width: 75%;
   height: 300px;
   margin-top: 170px;
   margin-left:5%;
