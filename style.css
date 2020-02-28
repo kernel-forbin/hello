@@ -70,9 +70,9 @@ box1 - HUDDLE
 
 .hud{
   width: 85%;
-  height: 300px;
-  margin-top: 170px;
-  margin: auto%;
+  height: 30%;
+  margin-top: 10%;
+  margin: auto;
   display: inline-block;
  text-decoration: none;
 
