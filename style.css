@@ -69,10 +69,10 @@ box1 - HUDDLE
 }
 
 .hud{
-  width: 75%;
+  width: 85%;
   height: 300px;
   margin-top: 170px;
-  margin-left:5%;
+  margin: auto%;
   display: inline-block;
  text-decoration: none;
 
@@ -97,7 +97,7 @@ box1 - HUDDLE
   color:#393e46;
   position: absolute;
   display: inline-block;
-  margin-left: 54%;
+  margin-left: 45%;
   margin-top: 0;
 }
 
