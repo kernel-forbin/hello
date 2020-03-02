@@ -27,8 +27,6 @@ body{
   background-attachment: fixed;
   background-size: cover;
   align-items: center;
-  
-
 }
 /**********************************
 TOP SECTION
@@ -63,9 +61,12 @@ box1 - HUDDLE
   border-radius: 15px;
   box-shadow: 0px 4px 6px 4px gray;
   padding:40px;
+  width: 80%;
   border-style: ridge;
   border-color: #CCCCCC;
   border-width: thin;
+  height: 200px;
+  margin: auto;
 
 
 }
@@ -75,8 +76,8 @@ box1 - HUDDLE
   height: 30%;
   margin-left: 7.5%;
   display: inline-block;
-Position: relative;
- text-decoration: none;
+  Position: relative;
+  text-decoration: none;
 
 }
 
@@ -84,28 +85,101 @@ Position: relative;
 
   transform: translateY(4px);
 }
+
 .hudsvg{
   margin: auto;
 }
 .text1{
+  display: inline-block;
   color: #393e46;
-  width:90%;
+  width:70%;
   text-align: center;
   margin: auto;
+  font-size: 15pt;
   padding: 40px 0px 40px 0px;
 
 }
+.date2{
+  color:#393e46;
+  position: absolute;
+  display: inline-block;
+  margin-left: 47%;
+  margin-top: 0;
+}
+.box2{
+  display: block;
+  position: relative;
+  background-color: #f9f9f9;
+  border-radius: 15px;
+  box-shadow: 0px 4px 6px 4px gray;
+  padding:40px;
+  width: 80%;
+  border-style: ridge;
+  border-color: #CCCCCC;
+  border-width: thin;
+  margin: auto;
+  margin-top: 50px;
+  height: 200px;
+}
+
+.active:active {
+
+  transform: translateY(4px);
+}
+.hudsvg{
+  margin: auto;
+}
+.text2{
+  display: inline-block;
+  color: #393e46;
+  width:70%;
+  text-align: center;
+  margin: auto;
+  font-size: 15pt;
+  padding: 40px 0px 40px 0px;
+
+}
+
 .date1{
   color:#393e46;
   position: absolute;
   display: inline-block;
-  margin-left: 45%;
+  margin-left: 48%;
   margin-top: 0;
 }
+.phone{
+  display: inline-block;
+  position: absolute;
+  float: right;
+  width: 100px;
+  margin-top:20px;
+  margin-left: 90px;
+  border-radius: 15px;
+  border-color: black;
+  border-style: solid;
+  padding: 15px;
+  background-color: #f9f9f9;
+}
+.laptop{
+  display: inline-block;
+  position: absolute;
+  float: right;
+  width: 100px;
+  margin-top:20px;
+  margin-left: 90px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: black;
+  padding: 15px;
+  background-color: #f9f9f9;
+}
+
+
 
 /**********************************
 attribution
 **********************************/
 
-/* background by SVGBackgrounds.com
-Huddle logo © Copyright 2018 Huddle. All rights reserved */
+/******************************** 
+Phone Icon made by https://www.flaticon.com/authors/freepik https://www.flaticon.com/ - background by SVGBackgrounds.com
+Huddle logo © Copyright 2018 Huddle. All rights reserved **************************************************************/
