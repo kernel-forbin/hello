@@ -129,6 +129,7 @@ box1 - HUDDLE
 .hudsvg{
   margin: auto;
 }
+
 .text2{
   display: inline-block;
   color: #393e46;
@@ -144,7 +145,7 @@ box1 - HUDDLE
   color:#393e46;
   position: absolute;
   display: inline-block;
-  margin-left: 48%;
+  margin-left: 45%;
   margin-top: 0;
 }
 .phone{
@@ -180,6 +181,6 @@ box1 - HUDDLE
 attribution
 **********************************/
 
-/******************************** 
+/********************************
 Phone Icon made by https://www.flaticon.com/authors/freepik https://www.flaticon.com/ - background by SVGBackgrounds.com
 Huddle logo © Copyright 2018 Huddle. All rights reserved **************************************************************/
